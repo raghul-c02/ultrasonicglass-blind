@@ -1,4 +1,4 @@
-                                     UNLOCKING THE WORLD WITH ULTRASONIC GLASS: A GUIDE FOR BLIND PEOPLE
+                                 UNLOCKING THE WORLD WITH ULTRASONIC GLASS: A GUIDE FOR BLIND PEOPLE
 
 The main aim of the project is to design a sound based alerting system for the blind people . 
 Ultrasonic Sensor senses the obstacles in its path by continuously transmitting the ultrasonic waves. 
